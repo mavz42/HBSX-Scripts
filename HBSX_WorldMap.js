@@ -1,1 +1,9 @@
-D:/Development/Games/Sandbox/js/plugins/HBSX_WorldMap.js
+/*:
+ * @plugindesc HBSX World Map System
+ * @author Verheffen
+ * 
+ * @help
+ * 
+ */
+(function() {
+})();

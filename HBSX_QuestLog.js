@@ -1,1 +1,9 @@
-D:/Development/Games/Sandbox/js/plugins/HBSX_QuestLog.js
+/*:
+ * @plugindesc HBSX Quest System
+ * @author Verheffen
+ * 
+ * @help
+ * 
+ */
+(function() {
+})();
